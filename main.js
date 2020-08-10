@@ -6,5 +6,5 @@ function password() {
 
   }
 function resueme(){
-    window.location.replace("/reseume.html")
+    window.location.replace("/Maha-CVResume/index.php")
 }
